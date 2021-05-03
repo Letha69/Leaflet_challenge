@@ -1,0 +1,23 @@
+html,
+body,
+#mapid {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+/* CSS from the Leaflet-Choropleth documentation */
+.legend {
+  padding: 6px 8px;
+  color: #555;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+/* .legend i {
+  padding: 0;
+  margin: 0;
+  clear: both;
+  list-style-type: none;
+} */
